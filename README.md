@@ -5,14 +5,11 @@
   <br>
 </h1>
 
-**Naufal Aditya Dirgandhavi**
-**13517064**
-
-###Data Storing
 
 ## Description
 
 DBMS Chosen : MYSQL
+
 #Pros :
 - Data security
 - On-demand scalability
@@ -22,6 +19,7 @@ DBMS Chosen : MYSQL
 - The flexibility of open source
 - Wide adopted and easy to use
 - Fast, portable, and secure
+
 #Cons :
 - Restricted for complex business logic
 - Few stability  issues
