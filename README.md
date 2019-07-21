@@ -5,11 +5,11 @@
   <br>
 </h1>
 
-## Description
+# Description
 
 DBMS Chosen : MYSQL
 
-# Pros :
+## Pros :
 - Data security
 - On-demand scalability
 - Round the clock uptime
@@ -19,16 +19,16 @@ DBMS Chosen : MYSQL
 - Wide adopted and easy to use
 - Fast, portable, and secure
 
-# Cons :
+## Cons :
 - Restricted for complex business logic
 - Few stability  issues
 - Transactions are not handled very efficiently
 - The functionality tends to be heavily dependent on the addons
 - Prior knowledge is a must
 
-Why I Choose it? Because I feel more familiar to MYSQL than the other DBMS(already taught at Database course)
+Why do I choose it? Because I feel more familiar to MYSQL than the other DBMS(already taught at Database course)
 
-## Screenshots
+# Screenshots
 
 Table Structure
 ![](screenshots/structure.PNG)
@@ -42,10 +42,10 @@ Data Film Database
 Genre Database
 ![](screenshots/table-genre.png)
 
-## References
+# References
 
 - https://www.wpblogx.com/what-is-mysql/
 - MySQL on PHPMyAdmin using XAMPP
 
-## Author
+# Author
 Naufal Aditya Dirgandhavi - 13517064
